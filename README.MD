@@ -12,7 +12,7 @@ For any inquiries or feedback, you can reach out to the Team Leader at hriday.mh
 
 ## Architecture Diagram
 
-![Architecture Diagram](/LossPerEpoch/client/images/DoxifyAi_Diagram.jpg)
+![Architecture Diagram](/client/images/DoxifyAi_Diagram.jpg)
 
 ## Prototype Description
 
